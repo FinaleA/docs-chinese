@@ -2,7 +2,7 @@ site_name: 88mph文档
 theme:
   name: readthedocs
 site_url: https://88mph.app/docs/cn/
-repo_url: https://github.com/88mphapp/88mph-docs-chinese
+repo_url: https://github.com/88mphapp/docs-chinese
 site_description: 88mph的文档翻译成中文
 site_author: Bacon Labs
 markdown_extensions:
