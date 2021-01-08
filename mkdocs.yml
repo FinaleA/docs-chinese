@@ -1,9 +1,9 @@
 site_name: 88mph Documentation
 theme:
   name: readthedocs
-site_url: https://88mph.app/docs
-repo_url: https://github.com/88mphapp/docs
-site_description: Documentation for 88mph
+site_url: https://88mph.app/docs/cn/
+repo_url: https://github.com/88mphapp/88mph-docs-chinese
+site_description: Documentation for 88mph translated in Chinese
 site_author: Bacon Labs
 markdown_extensions:
   - mdx_math

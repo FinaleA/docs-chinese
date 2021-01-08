@@ -1,9 +1,10 @@
-# Introduction
+# 介绍
 
 <span style="display:block;text-align:center">![88mph-logo](img/88mph-logo-dark.png)</span>
 
-This is the documentation of [88mph](https://88mph.app), a fixed-rate yield-generation protocol.
+这是关于[88mph](https://88mph.app)的技术资料，这是一个按固定利率计算年收益的平台。
 
-You can find the source code of 88mph on [GitHub](https://github.com/88mphapp).
+你可以在[GitHub](https://github.com/88mphapp)找到88mph的源代码。
 
-To learn about how 88mph achieves fixed-rate interest, check out [How 88mph works](howitworks.md).
+如果想了解88mph如何实现固定利率收益，请查看[88mph的运行策略](howitworks.md)。
+
