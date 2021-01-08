@@ -1,9 +1,9 @@
-site_name: 88mph Documentation
+site_name: 88mph文档
 theme:
   name: readthedocs
 site_url: https://88mph.app/docs/cn/
 repo_url: https://github.com/88mphapp/88mph-docs-chinese
-site_description: Documentation for 88mph translated in Chinese
+site_description: 88mph的文档翻译成中文
 site_author: Bacon Labs
 markdown_extensions:
   - mdx_math
@@ -12,8 +12,8 @@ markdown_extensions:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 nav:
-  - Introduction: index.md
-  - How 88mph works: howitworks.md
-  - MPH tokenomics: mph.md
-  - Smart contract addresses: addresses.md
-  - Smart contract reference: smartcontract.md
+  - 介绍: index.md
+  - 88mph的运行策略: howitworks.md
+  - MPH 代币经济: mph.md
+  - 智能合约地址: addresses.md
+  - 智能合约索引: smartcontract.md
