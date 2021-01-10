@@ -24,7 +24,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Install mdxmath
-        run: pip install python-markdown-math && pip install mdx_math
+        run: pip install markdown && pip install python-markdown-math
       - name: Deploy MkDocs
         # You may pin to the exact commit or the version.
         # uses: mhausenblas/mkdocs-deploy-gh-pages@66340182cb2a1a63f8a3783e3e2146b7d151a0bb
